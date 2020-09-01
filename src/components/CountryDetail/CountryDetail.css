@@ -1,0 +1,18 @@
+.countryDetail-style{
+    display: flex;
+    background-color: #282c34;
+    width: 80%;
+    border: 2px solid red;
+    margin-bottom: 15px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.countryDetail-flag-style{
+    width: 600px;
+    height: 400px;
+    margin: 50px;
+}
+.countryDetail-detail-style{
+    margin-top: 25px;
+    color: white;
+}

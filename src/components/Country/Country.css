@@ -1,0 +1,35 @@
+.country-style{
+    display: flex;
+    width: 80%;
+    border: 2px solid red;
+    margin-bottom: 15px;
+    margin-left: 170px;
+}
+.country-flag-style{
+    width: 600px;
+    height: 400px;
+    margin: 50px;
+}
+.country-detail-style{
+    margin-top: 50px;
+    color: white;
+}
+.btn-style{
+    background-color: #f0c14b;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: none;
+}
+.btn-text-style{
+    font-size: 15px;
+    font-weight: 800;
+}
+.btn-style:hover{
+    background-color: #EF2A2F;
+    color: white;
+    transition: 0.25s;
+}
